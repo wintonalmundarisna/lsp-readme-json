@@ -1,0 +1,54 @@
+[
+    {
+        "npm": "202143500065",
+        "nama": "Winton Almundarisna",
+        "jenis-kelamin": "laki-laki",
+        "jurusan": "teknik-informatika",
+        "tugas": "100",
+        "uts": "98",
+        "uas": "99",
+        "nilai": "98.9",
+        "grade": "A",
+        "keterangan": "LULUS",
+        "warna": "primary"
+    },
+    {
+        "npm": "202143500055",
+        "nama": "Agam",
+        "jenis-kelamin": "Laki-Laki",
+        "jurusan": "DKV",
+        "tugas": "10",
+        "uts": "20",
+        "uas": "30",
+        "nilai": "23",
+        "grade": "D",
+        "keterangan": "TIDAK LULUS",
+        "warna": "danger"
+    },
+    {
+        "npm": "202143500077",
+        "nama": "Intan",
+        "jenis-kelamin": "Perempuan",
+        "jurusan": "Ekonomi",
+        "tugas": "80",
+        "uts": "70",
+        "uas": "75",
+        "nilai": "74.5",
+        "grade": "C",
+        "keterangan": "LULUS",
+        "warna": "primary"
+    },
+    {
+        "npm": "202143500070",
+        "nama": "Ratna",
+        "jenis-kelamin": "Perempuan",
+        "jurusan": "Teknik Informatika",
+        "tugas": "40",
+        "uts": "70",
+        "uas": "75",
+        "nilai": "66.5",
+        "grade": "C",
+        "keterangan": "LULUS",
+        "warna": "primary"
+    }
+]

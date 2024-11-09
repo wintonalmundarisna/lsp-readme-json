@@ -1,0 +1,22 @@
+Folder PATH listing
+Volume serial number is 4E5D-9206
+C:.
+�   create.php
+�   delete.php
+�   insert.php
+�   khs.php
+�   khsjson.php
+�   read.php
+�   README.md
+�   update.php
+�   
++---document
+�       ss.pdf
+�       tree.txt
+�       
++---json
+        anggota.json
+        jwd2.json
+        krs2.json
+        krs3.json
+        
